@@ -10,7 +10,7 @@ The Kickstarter data was analyzed by examining the theater outcomes by launch da
 The theater outcomes by launch date was analyzed by filtering data by the category of theater and year. Then the data was tallied by the number of canceled, failed, and successful campaigns over the months of the year. 
 
 #### Outcomes Based on Goals
-This was analyzed by categorizing the campaigns goals in logical increments and filtering the number of successful, failed, and canceled play Kickstarters. Then the percentage of each of the categories was calculated. 
+The outcomes based on goals was analyzed by categorizing the campaigns goals in logical increments and filtering the number of successful, failed, and canceled play Kickstarters. Then the percentage of each of the categories was calculated. 
 
 ## Results
 * Theater Outcomes by Launch Date ![Theater Outcomes by Launch Date]( https://github.com/Mary-Wood/Kickstarter-Challenge/blob/main/Theatre_Outcomes_vs_Launch.png) shows that campaigns in May and June have a drastically higher success rate than those in other months. Generally, the number of canceled campaigns has a relatively stable baseline, with a slight peak in January. This data suggests that starting a campaign in May or June would present the highest likelihood for success, but between April and July present more successful campaigns that the rest of the year. 
