@@ -4,10 +4,10 @@
 The purpose of this analysis is to predict the potential success of the client’s Kickstarter Campaign. Specifically, the client’s theatrical play campaign came close to it’s $10,000 goal. However, the client would like to know more about how the launch date of a campaign and the goal amount impacted the success or failure of similar play Kickstarters.
 
 ## Analysis and Challenges
-The Kickstart data was analyzed by examining the theater outcomes by launch date and the outcomes based on goal amount. 
+The Kickstarter data was analyzed by examining the theater outcomes by launch date and the outcomes based on goal amount. 
 
 ### Theater Outcomes by Launch Date
-This was analyzed by filtering data by the category of theater and year. Then the data was tallied by the number of canceled, failed, and successful campaigns over the months of the year. 
+The theater outcomes by launch date was analyzed by filtering data by the category of theater and year. Then the data was tallied by the number of canceled, failed, and successful campaigns over the months of the year. 
 
 #### Outcomes Based on Goals
 This was analyzed by categorizing the campaigns goals in logical increments and filtering the number of successful, failed, and canceled play Kickstarters. Then the percentage of each of the categories was calculated. 
