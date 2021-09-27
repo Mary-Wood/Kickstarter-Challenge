@@ -14,6 +14,7 @@ This was analyzed by categorizing the campaigns goals in logical increments and 
 
 ## Results
 * Theater Outcomes by Launch Date ![Theater Outcomes by Launch Date]( https://github.com/Mary-Wood/Kickstarter-Challenge/blob/main/Theatre_Outcomes_vs_Launch.png) shows that campaigns in May and June have a drastically higher success rate than those in other months. Generally, the number of canceled campaigns has a relatively stable baseline, with a slight peak in January. This data suggests that starting a campaign in May or June would present the highest likelihood for success, but between April and July present more successful campaigns that the rest of the year. 
+
 * Outcomes Based on Goals ![Outcomes Based on Goals](https://github.com/Mary-Wood/Kickstarter-Challenge/blob/main/Outcomes_vs_Goals.png) shows clear trends in the success and failure of campaigns. Campaigns $10,000 and lower were more likely to be successful while failure percentages increase most dramatically between $15,000 and 35,000 and higher than $45,000. In a small niche of $35,000- $45,000 campaigns are more likely to be successful. As such, the client’s goal of S10,000 appears to be very likely to be successful. 
 
 ### Limitations
